@@ -1,6 +1,6 @@
 ## Mi perfil
 
-<img src='' width='100%' height='400px' />
+<img src='./WhatsApp Image 2022-12-24 at 19.06.36.jpeg' width='100%' height='400px' />
 
 Soy un programador/desarrollador web autodidacta con conocimientos en:
 
