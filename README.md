@@ -2,8 +2,8 @@
 
 Soy un programador/desarrollador web autodidacta con conocimientos en:
 
-- Html ![logo](https://aux.iconspalace.com/uploads/16462271581931937339.png)
-- Css ... <img src="https://blastcoding.com/wp-content/uploads/2018/10/CSS3.png" width='50px' height="50px">
+- Html <img src="https://aux.iconspalace.com/uploads/16462271581931937339.png" width='50px' height="50px">
+- Css <img src="https://blastcoding.com/wp-content/uploads/2018/10/CSS3.png" width='50px' height="50px">
 - Sass ...
 - Tailwind ...
 - Bootstrap ...
