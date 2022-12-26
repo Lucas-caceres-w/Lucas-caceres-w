@@ -1,5 +1,7 @@
 ## Mi perfil
 
+<img src='' width='100%' height='400px' />
+
 Soy un programador/desarrollador web autodidacta con conocimientos en:
 
 - Html <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/768px-HTML5_logo_and_wordmark.svg.png" width='20px' height="20px">
