@@ -2,7 +2,7 @@
 
 <a href="https://lucasdev.com.ar" target='BLANK'><img src='./WhatsApp Image 2022-12-24 at 19.06.36.jpeg' width='100%' height='380px' /></a>
 
-Soy un programador/desarrollador web autodidacta con conocimientos en:
+### Soy un programador/desarrollador web autodidacta con conocimientos en:
 
 - Html <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/768px-HTML5_logo_and_wordmark.svg.png" width='20px' height="20px">
 - Css <img src="https://blastcoding.com/wp-content/uploads/2018/10/CSS3.png" width='20px' height="20px">
