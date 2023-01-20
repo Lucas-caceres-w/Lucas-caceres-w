@@ -1,6 +1,6 @@
 ## Mi perfil
 
-<a href="https://lucasdev.com.ar" target='BLANK'><img src='./WhatsApp Image 2022-12-24 at 19.06.36.jpeg' width='100%' height='380px' /></a>
+<a href="https://lucasdev.com.ar" target='BLANK'><img src='./portada.jpeg' width='100%' height='380px' /></a>
 
 ### Soy un programador/desarrollador web autodidacta con conocimientos en:
 
