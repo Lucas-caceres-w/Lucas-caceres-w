@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./portada-web.jpg" align="center" style="width: 100%" />
+<img src="./portada-web.jpeg" align="center" style="width: 100%" />
 </div>
 
 ### <div align="center">I'm Lucas dev, full-stack freelance developer 👨‍💻 🚀
